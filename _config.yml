@@ -29,15 +29,6 @@ contact_note: >
 
 google_analytics: # out your google-analytics code
 
-# -----------------------------------------------------------------------------
-# Blog
-# -----------------------------------------------------------------------------
-
-
-# Optional features
-show_social_icons:  false
-enable_anchorjs:    false
-enable_katex:       true
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -60,7 +51,7 @@ news_limit: 5
 
 # Build settings
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 
 # Includes & excludes
 include: ['_pages']
@@ -70,7 +61,7 @@ exclude: [vendor]
 plugins:
     - jekyll-email-protect
     - jekyll-paginate
-    - jekyll/scholar
+    - jekyll-scholar
     - jemoji
 
 # Jekyll-Scholar
