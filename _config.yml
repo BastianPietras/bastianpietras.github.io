@@ -78,6 +78,18 @@ scholar:
   source: /_bibliography/
   bibliography: papers.bib
   bibliography_template: bib
+  
+  navigation:
+   - title: home
+   url: /home.html
+   - title: about me
+   url: /about_me.html
+   - title: publications
+   url: /publications.html
+   - title: teaching
+   url: /teaching.html
+   - title: projects
+   url: /projects.html
 
   replace_strings: true
   join_strings: true
