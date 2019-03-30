@@ -1,7 +1,7 @@
 ---
-layout: about
+layout: home
 permalink: /
-title: <strong>Your</strong> Name
+title: <strong>Bastian</strong> Pietras
 description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
