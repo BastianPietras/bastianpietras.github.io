@@ -7,7 +7,8 @@ description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
 profile:
   align: right
   image: prof_pic.jpg
-  address: >Technische Universität Berlin
+  address: >
+           <p>Technische Universität Berlin</p>
            <p>Institut für Mathematik</p>
            <p>Sekretariat MA 7-2</p>
            <p>Straße des 17. Juni 136</p>
