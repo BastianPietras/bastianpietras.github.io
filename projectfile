@@ -1,4 +1,4 @@
-# insert in project page!
+# insert in _pages/projects.md page!
 
 {% for project in site.projects %}
 
