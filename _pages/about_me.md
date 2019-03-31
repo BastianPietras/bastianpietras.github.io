@@ -19,7 +19,7 @@ title: about me
     <td>Master of Science in applied mathematics at University of Münster, Germany</td>
   </tr>
   <tr>
-    <td>10/2010 -<br/> <09/2013</td>
+    <td>10/2010 -<br/>09/2013</td>
     <td>Bachelor of Science in mathematics at University of Münster, Germany, and at Universitat de Barcelona, Spain</td>
   </tr>
 </table>
