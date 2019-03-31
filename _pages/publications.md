@@ -2,7 +2,6 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Journal publications.
 ---
 
 For now, this page is assumed to be a static description of your publications. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
@@ -18,4 +17,3 @@ For now, this page is assumed to be a static description of your publications. Y
       <em>Phys. Rev. E</em>, 2016<br/>
       [<a href="https://aip.scitation.org/doi/10.1063/1.4963371" target="_self">DOI</a>]
 
-</ol>
