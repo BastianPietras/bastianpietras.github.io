@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2018-03-23
 inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Our [AMCOS](https://amcosconference.com/) conference in Barcelona was a huge success - many thanks to all who made this possible!
