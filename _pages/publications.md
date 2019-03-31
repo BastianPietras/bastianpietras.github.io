@@ -27,8 +27,8 @@ title: publications
 
 <strong>Modeling phase synchronization of interacting neuronal populations: From phase reductions to collective behavior of oscillatory neural networks</strong><br/>
 <ins>B. Pietras</ins>, 2018<br/>
-<em>Promotoren:</em>   A. Daffertshofer (VU Amsterdam), A. Stefanovska (Lancaster University)<br/>
-<em>Copromotor:</em>   P. V. E. McClintock (Lancaster University)<br/>
+<em>Promotoren:</em>   <a href="https://www.human-movement-sciences.nl/cd/scientfic-staff/marlow/" target="_self">A. Daffertshofer</a> (VU Amsterdam), <a href="https://www.lancaster.ac.uk/physics/about-us/people/aneta-stefanovska" target="_self">A. Stefanovska</a> (Lancaster University)<br/>
+<em>Copromotor:</em>   <a href="https://www.lancaster.ac.uk/physics/about-us/people/peter-mcclintock" target="_self">P. V. E. McClintock</a> (Lancaster University)<br/>
 [<a href="https://research.vu.nl/en/publications/modeling-phase-synchronization-of-interacting-neuronal-population" target="_self">LINK</a>]
      
      
