@@ -7,8 +7,8 @@ title: about me
 
 <table class="tg">
   <tr>
-    <th>since<br/>02/2019</th>
-    <th>Postdoc with Tilo Schwalger at TU Berlin and Bernstein Center for Computational Neuroscience, Berlin, Germany</th>
+    <td> since <br/>  02/2019  </td>
+    <td>Postdoc with Tilo Schwalger at TU Berlin and Bernstein Center for Computational Neuroscience, Berlin, Germany</td>
   </tr>
   <tr>
     <td>10/2015 -<br/>12/2018</td>
