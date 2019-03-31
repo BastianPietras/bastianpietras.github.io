@@ -15,11 +15,12 @@ last_updated: # leave blank if you don't want to display last updated
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-social_links:
-  linkedin: bastian-pietras # your LinkedIn user name
-  scholar: buNOp10AAAAJ # your Google Scholar ID
-  orcid_id: # your ORCID ID
-  researchgate: Bastian_Pietras
+linkedin_username: bastian-pietras # your LinkedIn user name
+scholar_userid: buNOp10AAAAJ # your Google Scholar ID
+github_username: BastianPietras # your GitHub user name
+twitter_username: BastianPietras # your Twitter handle
+orcid_id: # your ORCID ID
+researchgate_username: Bastian_Pietras
 
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
