@@ -8,3 +8,7 @@ years: [1956, 1950, 1935, 1905]
 
 For now, this page is assumed to be a static description of your publications. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
 
+{% for y in page.years %}
+  <h3 class="year">{{y}}</h3>
+  {% bibliography -f papers -q @*[year={{y}}]* %}
+{% endfor %}
