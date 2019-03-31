@@ -7,7 +7,8 @@ description: Publications published.
 
 For now, this page is assumed to be a static description of your publications. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
 
-1. **Ott-Antonsen attractiveness for parameter-dependent oscillatory systems**
+2. **Ott-Antonsen attractiveness for parameter-dependent oscillatory systems**
+   
    <ins>B. Pietras</ins>, A. Daffersthofer 
    _Chaos_, 2016
    [[DOI](https://aip.scitation.org/doi/10.1063/1.4963371)]  
