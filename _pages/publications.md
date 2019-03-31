@@ -27,7 +27,9 @@ title: publications
       <em>Chaos</em>, 2016<br/>
       [<a href="https://aip.scitation.org/doi/10.1063/1.4963371" target="_self">DOI</a>]
 
+<br/>
 
+<hr />
 
 <h4>PhD thesis</h4>
 
