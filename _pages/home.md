@@ -13,6 +13,8 @@ profile:
            <p>Sekretariat MA 7-2</p>
            <p>Straße des 17. Juni 136</p>
            <p>10623 Berlin</p>
+           <p><a href="mailto:pietras@tu-berlin.de">Email</a></p>
+           
 
 news: true
 social: true
