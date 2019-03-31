@@ -8,12 +8,13 @@ description: Publications published.
 For now, this page is assumed to be a static description of your publications. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
 
 <ol reversed>
-  <li>**Ott-Antonsen attractiveness for parameter-dependent oscillatory systems**<br/>
+  <li> <strong>Ott-Antonsen attractiveness for parameter-dependent oscillatory systems</strong><br/>
       <ins>B. Pietras</ins>, A. Daffersthofer<br/>
-      _Chaos_, 2016<br/>
+    <em>Chaos</em>, 2016<br/>
       [[DOI](https://aip.scitation.org/doi/10.1063/1.4963371)]  
-  <li>**Equivalence of coupled networks and networks with multimodal frequency distributions: Conditions for the bimodal and trimodal case**<br/>
+  <li><strong>Equivalence of coupled networks and networks with multimodal frequency distributions: Conditions for the bimodal and trimodal case</strong><br/>
       <ins>B. Pietras</ins>, N. Deschle, A. Daffersthofer<br/>
-      _Phys. Rev. E_, 2016<br/>
+    <em>Phys. Rev. E</em>, 2016<br/>
       [[DOI](https://aip.scitation.org/doi/10.1063/1.4963371)] 
+
 </ol>
