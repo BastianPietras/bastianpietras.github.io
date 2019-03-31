@@ -29,14 +29,12 @@ title: publications
 
 
 
-<h3>PhD thesis</h3>
+<h4>PhD thesis</h4>
 
-<ul>
-   <li> <strong>Modeling phase synchronization of interacting neuronal populations: From phase reductions to collective behavior of oscillatory neural networks</strong><br/>
-     <ins>B. Pietras</ins>, 2018<br/>
-     <em>Promotoren:</em>   A. Daffertshofer (VU Amsterdam), A. Stefanovska (Lancaster University)<br/>
-     <em>Copromotor:</em>   P.M.V. McClintock (Lancaster University)<br/>
-     [<a href="https://research.vu.nl/en/publications/modeling-phase-synchronization-of-interacting-neuronal-population" target="_self">LINK</a>]
-     
+<strong>Modeling phase synchronization of interacting neuronal populations: From phase reductions to collective behavior of oscillatory neural networks</strong><br/>
+<ins>B. Pietras</ins>, 2018<br/>
+<em>Promotoren:</em>   A. Daffertshofer (VU Amsterdam), A. Stefanovska (Lancaster University)<br/>
+<em>Copromotor:</em>   P. V. E. McClintock (Lancaster University)<br/>
+[<a href="https://research.vu.nl/en/publications/modeling-phase-synchronization-of-interacting-neuronal-population" target="_self">LINK</a>]
      
      
