@@ -61,7 +61,7 @@ exclude: [vendor]
 plugins:
     - jekyll-email-protect
     - jekyll-paginate
-    - jekyll-scholar
+    - jekyll/scholar
     - jemoji
 
 # Jekyll-Scholar
@@ -77,7 +77,7 @@ scholar:
 
   source: /_bibliography/
   bibliography: papers.bib
-  bibliography_template: bib
+  bibliography_template: "{{reference}}"
   
   replace_strings: true
   join_strings: true
