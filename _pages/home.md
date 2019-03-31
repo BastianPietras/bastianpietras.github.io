@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 title: <strong>Bastian</strong> Pietras
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: Postdoctoral fellow in <a href="https://www.math.tu-berlin.de/fachgebiete_ag_stochfinanz/fg_daten_assimilation_in_den_neurowissenschaften/v_menue/fg_daten_assimilation_in_den_neurowissenschaften/" target="_self">Computational Neuroscience and Data Assimilation</a>
 
 profile:
   align: right
@@ -26,3 +26,6 @@ I have used phase reduction approaches to investigate dynamic correlations of os
 Moreover, I combine ideas from computational neuroscience, nonlinear dynamics, bifurcation theory, and statistical mechanics, to study neuronal population models that are capable of generating large-scale oscillations.
 More recently, I have started working on stochastic neural dynamics, striving towards mean-field theories for populations of spiking neurons.
 
+<br/>
+
+Check also my older websites as one of the [COSMOS ESRs](https://www.uni-potsdam.de/cosmos-itn/people/early-stage-researchers-esrs/bastian-pietras/) and in the [Coordination Dynamics](https://www.human-movement-sciences.nl/cd/current-phds/bastian/) group at the VU Amsterdam.
