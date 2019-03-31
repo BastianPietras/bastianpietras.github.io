@@ -75,8 +75,8 @@ scholar:
   sort_by: year
   order: descending
 
-  source: /_bibliography/
-  bibliography: papers.bib
+  source: ./_bibliography
+  bibliography: references.bib
   bibliography_template: "{{reference}}"
   
   replace_strings: true
