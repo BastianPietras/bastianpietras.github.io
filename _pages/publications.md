@@ -7,6 +7,15 @@ title: publications
 
 <ol reversed>
   
+  <li> <strong>An exact firing rate model reveals the differential effects of chemical versus electrical synapses in
+spiking networks</strong><br/>
+      <ins>B. Pietras</ins>, F. Devalle, A. Roxin, A. Daffersthofer, E. Montbrio<br/>
+      <em>submitted</em>, 2019. [<a href="https://arxiv.org/pdf/1905.01917.pdf" target="_self">DOI</a>]<br/>
+  
+  <li> <strong>Network dynamics of coupled oscillators and phase reduction techniques</strong><br/>
+      <ins>B. Pietras</ins>, A. Daffersthofer<br/>
+      <em>Physics Reports</em>, 2019. [<a href="https://www.sciencedirect.com/science/article/pii/S0370157319302327" target="_self">DOI</a>]<br/>
+  
   <li> <strong>First-order phase transitions in the Kuramoto model with compact bimodal frequency distributions</strong><br/>
       <ins>B. Pietras</ins>, N. Deschle, A. Daffersthofer<br/>
       <em>Phys. Rev. E</em>, 2018. [<a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.98.062219" target="_self">DOI</a>]<br/>
