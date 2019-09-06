@@ -10,7 +10,7 @@ title: publications
   <li> <strong>An exact firing rate model reveals the differential effects of chemical versus electrical synapses in
 spiking networks</strong><br/>
       <ins>B. Pietras</ins>, F. Devalle, A. Roxin, A. Daffersthofer, E. Montbrio<br/>
-      <em>submitted</em>, 2019. [<a href="https://arxiv.org/pdf/1905.01917.pdf" target="_self">arXiv</a>]<br/>
+      <em>submitted</em>, 2019. [<a href="https://arxiv.org/abs/1905.01917" target="_self">arXiv</a>]<br/>
   
   <li> <strong>Network dynamics of coupled oscillators and phase reduction techniques</strong><br/>
       <ins>B. Pietras</ins>, A. Daffersthofer<br/>
