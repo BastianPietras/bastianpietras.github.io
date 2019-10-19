@@ -30,4 +30,9 @@ More recently, I have started working on stochastic neural dynamics, striving to
 
 <br/>
 
+I am always keen on applying our modeling framework in interdisciplinary empirical projects and testing our mathematical techniques against experimental data - ideas range from describing LFP recordings or Neuropixels probes up to neuroprosthetics and brain-machine interfaces.
+Feel free to contact me in case you are interested!
+
+<br/>
+
 Check also my older websites as one of the [COSMOS ESRs](https://www.uni-potsdam.de/cosmos-itn/people/early-stage-researchers-esrs/bastian-pietras/), in the [Coordination Dynamics](https://www.human-movement-sciences.nl/cd/current-phds/bastian/) group at the VU Amsterdam, and in the [Nonlinear and Biomedical Physics](http://www.research.lancs.ac.uk/portal/en/people/bastian-pietras(7175062e-59d9-4264-8ff0-3cf5a13be5ec).html) group at Lancaster University.
