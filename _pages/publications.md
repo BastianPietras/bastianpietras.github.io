@@ -9,27 +9,27 @@ title: publications
   
   <li> <strong>An exact firing rate model reveals the differential effects of chemical versus electrical synapses in
 spiking networks</strong><br/>
-      <ins>B. Pietras</ins>, F. Devalle, A. Roxin, A. Daffersthofer, E. Montbri&oacute;<br/>
-      <em>accepted for publication in Phys. Rev. E.</em>, 2019. [<a href="https://arxiv.org/abs/1905.01917" target="_self">arXiv</a>]<br/>
+      <ins>B. Pietras</ins>, F. Devalle, A. Roxin, A. Daffertshofer, E. Montbri&oacute;<br/>
+      <em>Phys. Rev. E.</em>, 2019. [<a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.100.042412" target="_self">DOI</a>]<br/>
   
   <li> <strong>Network dynamics of coupled oscillators and phase reduction techniques</strong><br/>
-      <ins>B. Pietras</ins>, A. Daffersthofer<br/>
+      <ins>B. Pietras</ins>, A. Daffertshofer<br/>
       <em>Physics Reports</em>, 2019. [<a href="https://www.sciencedirect.com/science/article/pii/S0370157319302327" target="_self">DOI</a>]<br/>
   
   <li> <strong>First-order phase transitions in the Kuramoto model with compact bimodal frequency distributions</strong><br/>
-      <ins>B. Pietras</ins>, N. Deschle, A. Daffersthofer<br/>
+      <ins>B. Pietras</ins>, N. Deschle, A. Daffertshofer<br/>
       <em>Phys. Rev. E</em>, 2018. [<a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.98.062219" target="_self">DOI</a>]<br/>
   
   <li> <strong>Scale-freeness or partial synchronization in neural mass phase oscillator networks: Pick one of two?</strong><br/>
-      A. Daffersthofer, R. Ton, <ins>B. Pietras</ins>, M. L. Kringelbach, G. Deco<br/>
+      A. Daffertshofer, R. Ton, <ins>B. Pietras</ins>, M. L. Kringelbach, G. Deco<br/>
       <em>NeuroImage</em>, 2018. [<a href="https://www.sciencedirect.com/science/article/pii/S1053811918302805" target="_self">DOI</a>]<br/>
         
   <li><strong>Equivalence of coupled networks and networks with multimodal frequency distributions: Conditions for the bimodal and trimodal case</strong><br/>
-      <ins>B. Pietras</ins>, N. Deschle, A. Daffersthofer<br/>
+      <ins>B. Pietras</ins>, N. Deschle, A. Daffertshofer<br/>
       <em>Phys. Rev. E</em>, 2016. [<a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.94.052211" target="_self">DOI</a>]<br/>
   
   <li> <strong>Ott-Antonsen attractiveness for parameter-dependent oscillatory systems</strong><br/>
-      <ins>B. Pietras</ins>, A. Daffersthofer<br/>
+      <ins>B. Pietras</ins>, A. Daffertshofer<br/>
       <em>Chaos</em>, 2016. [<a href="https://aip.scitation.org/doi/10.1063/1.4963371" target="_self">DOI</a>]
 
 <br/>
