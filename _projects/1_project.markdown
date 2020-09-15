@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Fluctuations in a neural field model
-description: for finite numbers of renewal-type spiking neurons
+description: for a finite number of renewal-type neurons
 img: /assets/img/stochring_cover.png
 redirect: https://www.youtube.com/watch?v=hLkP9h434fI
 ---
