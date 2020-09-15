@@ -53,6 +53,8 @@ spiking networks</strong><br/>
 
 <br/>
 
+</ol reversed>
+
 <hr />
 
 <h4>PhD thesis</h4>
