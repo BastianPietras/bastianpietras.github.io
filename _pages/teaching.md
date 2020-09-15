@@ -8,7 +8,7 @@ title: teaching
 <table class="tg">
   <tr>
     <td style="width:110px"> SS 2020  </td>
-    <td>Lecture: Probability Theory and Statistics for Computer Scientists (Assistant)</td>
+    <td>Lecture: Probability Theory and Statistics for Computer Scientists <br>(Assistant)</td>
   </tr>
   
   <tr>
@@ -18,17 +18,17 @@ title: teaching
   
   <tr>
     <td> WS 2019/20  </td>
-    <td>Lecture: Analysis I and Linear Algebra for Engineers (Assistant)</td>
+    <td>Lecture: Analysis I and Linear Algebra for Engineers <br>(Assistant)</td>
   </tr>
   
   <tr>
     <td> WS 2019/20  </td>
-    <td>Lecture: Mathematics Prep-Course for Computational Neuroscience (Assistant)</td>
+    <td>Lecture: Mathematics Prep-Course for Computational Neuroscience <br>(Assistant)</td>
   </tr>
   
   <tr>
     <td> SS 2019  </td>
-    <td>Lecture: Mathematics for Physicists IV (Assistant)</td>
+    <td>Lecture: Mathematics for Physicists IV <br>(Assistant)</td>
   </tr>
   
   <tr>
