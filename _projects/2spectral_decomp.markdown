@@ -32,8 +32,8 @@ A single neuron is uniquely characterized through the probability to elicit a sp
 This spiking probability is proportional to the so-called hazard rate, depicted on the left.
 The hazard rate, in turn, is closely related to the interspike interval (ISI) density P, here shown in the middle.
 Assuming an infinitely large population of similar neurons, we can group all those neurons together that have the same age.
-The resulting density is called the refractory density, and follows a particular continuity equation.
-From this refractory density equation, one can readily infer the population activity that shows some oscillatory behavior as a response to a step-input current, see the blue curve in the right panel.
+The resulting neuron density is called the refractory density, and follows a particular continuity equation.
+From this refractory density equation, one can readily deduce the population activity that shows some oscillatory behavior as a response to a step-input current, see the blue curve in the right panel.
 There, we also plotted the population activity for a network of 10'000 neurons (gray) as well as the dynamics obtained with a traditional firing rate model (red), which however is unable to capture the ringing behavior of the population response.
 
 
