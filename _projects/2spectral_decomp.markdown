@@ -26,7 +26,7 @@ descriptions, particularly when trying to describe neuronal synchronization.
 
 
 Here, we will present a systematic reduction of the population activity of general renewal-type neurons that can account for neuronal refractoriness and spike synchronization dynamics.
-<div><p style="float: right;"><img src="{{ site.baseurl }}/assets/img/PAR_network.png" alt="" title="overview" style="float: left" width="700px" height="auto" padding="1px"></p>  
+<div><p style="float: center;"><img src="{{ site.baseurl }}/assets/img/PAR_network.png" alt="" title="overview" style="float: center" width="680px" height="auto" padding="10px"></p>  
 </div>
 A single neuron is uniquely characterized through the probability to elicit a spike in the next instant in time, given its age (i.e. the time elapsed since its last spike) and some input.
 This spiking probability is proportional to the so-called hazard rate, depicted on the left.
