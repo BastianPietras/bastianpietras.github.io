@@ -22,10 +22,10 @@ of our brain. But their overall functional role remains elusive, and how exactly
 to generate oscillations is unknown.
 
 Traditionally, firing rate models have been proposed to describe the collective dynamics of large populations of neurons
-and to obtain a mechanistic understanding underlying neural computations.
+and to obtain a mechanistic understanding of neural computations.
 But traditional mean-field theories, besides other major limitations, are incompatible with electrical synapses. 
 Towards developing a mean-field theory that can incoporate gap junctions, a novel approach has recently
-been proposed by Ernest Montbrio, Diego Pazo, and Alex-Roxin, which is related to the Ott-Antonsen ansatz for coupled
+been proposed by Ernest Montbri&oacute;, Diego Paz&oacute;, and Alex Roxin, which is related to the Ott-Antonsen ansatz for coupled
 oscillators. They showed by a unique example of exact mean-field reduction how to link the microscopic dynamics
 of quadratic integrate-and-fire (QIF) spiking neurons to an exact macroscopic mean-field description. The resulting
 firing-rate model, which has been coined "next-generation neural mass model" is (1) exactly derived
