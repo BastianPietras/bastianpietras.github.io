@@ -1,21 +1,21 @@
 .project {
     box-sizing: border-box;
     float: left;
-    height: 350px;
-    padding: 15px;
+    height: 250px;
+    padding: 10px;
     vertical-align: middle;
     width: 33.33%;
 
     .thumbnail {
         overflow: hidden;
-        height: 300px;
+        height: 200px;
         width: 100%;
 
         img {
             height: auto;
             position: center;
             vertical-align: middle;
-            width: 300px;
+            width: 200px;
         }
 
         a {
