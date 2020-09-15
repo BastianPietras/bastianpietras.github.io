@@ -36,6 +36,12 @@ Assuming an infinitely large population of similar neurons, we can group all tho
 The resulting density is called the refractory density, and follows a particular continuity equation.
 From this refractory density equation, one can readily infer the population activity that shows some oscillatory behavior as a response to a step-input current (right).
 
+<div>  
+<p>Higher brain functions, such as sensory information processing and the attendant complexities of learning, memory storage, and pattern recognition, rely on the orchestrated interplay of a large number of neurons.
+Through their collective dynamics, structure emerges in large-scale spatiotemporal brain activity and information can be introduced into the nervous system.
+</p><p style="float: right;"><img src="{{ site.baseurl }}//assets/img/PAR_network.png" alt="" title="overview" style="float: left" width="400px" height="auto" padding="1px"></p>  
+</div>
+
 In order to derive low-dimensional firing rate models, we perform a spectral decomposition, which is based on an eigenmode expansion of the refractory density equation.
 Already a first-order approximation yields an accurate firing rate model that captures spike synchronization effects and fast transient dynamics at stimulus onset. The characteristic time scales of the system can be determined through a simple eigenvalue formula in terms of the interspike interval density or the survival function of the renewal process. The eigenvalue formula thus directly links microscopic neuronal properties to observed macroscopic behavior. 
 Last, as our approach generalizes previous spectral methods for Fokker-Planck equations to arbitrary renewal models, we obtain equivalent firing rate dynamics for integrate-and-fire models driven by white noise in an alternative, but more elegant way.
