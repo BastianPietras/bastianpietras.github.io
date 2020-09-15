@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Project 6
-description: a project with no image
+title: QIF neurons with gap junctions
+description: exact low-dimensional network dynamics
 img:
 ---
 
