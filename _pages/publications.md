@@ -22,6 +22,7 @@ spiking networks</strong><br/>
       <ins>B. Pietras</ins>, A. Daffertshofer<br/>
       <em>Physics Reports</em>, 2019. [<a href="https://www.sciencedirect.com/science/article/pii/S0370157319302327" target="_self">DOI</a>]</li><br/>
   
+  <h3 class="year">2018</h3>
   <li> <strong>First-order phase transitions in the Kuramoto model with compact bimodal frequency distributions</strong><br/>
       <ins>B. Pietras</ins>, N. Deschle, A. Daffertshofer<br/>
       <em>Phys. Rev. E</em>, 2018. [<a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.98.062219" target="_self">DOI</a>]</li><br/>
@@ -30,6 +31,7 @@ spiking networks</strong><br/>
       A. Daffertshofer, R. Ton, <ins>B. Pietras</ins>, M. L. Kringelbach, G. Deco<br/>
       <em>NeuroImage</em>, 2018. [<a href="https://www.sciencedirect.com/science/article/pii/S1053811918302805" target="_self">DOI</a>]</li><br/>
         
+  <h3 class="year">2016</h3>      
   <li><strong>Equivalence of coupled networks and networks with multimodal frequency distributions: Conditions for the bimodal and trimodal case</strong><br/>
       <ins>B. Pietras</ins>, N. Deschle, A. Daffertshofer<br/>
       <em>Phys. Rev. E</em>, 2016. [<a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.94.052211" target="_self">DOI</a>]</li><br/>
