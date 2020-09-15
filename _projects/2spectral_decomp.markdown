@@ -27,7 +27,7 @@ descriptions, particularly when trying to describe neuronal synchronization.
 
 Here, we will present a systematic reduction of the population activity of general renewal-type neurons that can account for neuronal refractoriness and spike synchronization dynamics.
 <div class="img_row">
-    <img src="{{ site.baseurl }}/assets/img/PAR_network.png" alt="" title="overview" width="800px" height="auto">
+    <img src="{{ site.baseurl }}/assets/img/PAR_network.png" alt="" title="overview" width="600px" height="auto">
 </div>
 A single neuron is uniquely characterized through the probability to elicit a spike in the next instant in time, given its age (i.e. the time elapsed since its last spike) and some input.
 This spiking probability is proportional to the so-called hazard rate, depicted on the left.
@@ -39,7 +39,7 @@ From this refractory density equation, one can readily infer the population acti
 <div>  
 <p>Higher brain functions, such as sensory information processing and the attendant complexities of learning, memory storage, and pattern recognition, rely on the orchestrated interplay of a large number of neurons.
 Through their collective dynamics, structure emerges in large-scale spatiotemporal brain activity and information can be introduced into the nervous system.
-</p><p style="float: right;"><img src="{{ site.baseurl }}/assets/img/PAR_network.png" alt="" title="overview" style="float: left" width="800px" height="auto" padding="1px"></p>  
+</p><p style="float: right;"><img src="{{ site.baseurl }}/assets/img/PAR_network.png" alt="" title="overview" style="float: left" width="600px" height="auto" padding="1px"></p>  
 </div>
 
 In order to derive low-dimensional firing rate models, we perform a spectral decomposition, which is based on an eigenmode expansion of the refractory density equation.
