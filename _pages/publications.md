@@ -38,6 +38,8 @@ spiking networks</strong><br/>
 
 <br/>
 
+</ol reversed>
+
 <hr />
 
 <h4>Book chapters</h4>
