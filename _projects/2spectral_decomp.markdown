@@ -34,7 +34,7 @@ descriptions, particularly when trying to describe neuronal synchronization.
 <br>
 Here, we will present a systematic reduction of the population activity of general renewal-type neurons that can account for neuronal refractoriness and spike synchronization dynamics.
 <div class="img_row">
-    <embed class="col three left" src="{{ site.baseurl }}//assets/img/PAR_network.png" alt="" title="overview" max-width="600px" height="auto">
+    <img class="col three left" src="{{ site.baseurl }}//assets/img/PAR_network.png" alt="" title="overview">
 </div>
 
 <br>
