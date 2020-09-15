@@ -5,7 +5,7 @@ description: spectral decomposition of the refractory density
 img: /assets/img/lowdim_cover.png
 ---
         
-<iframe class="col two right" src="/assets/img/activity_fig.png" alt="" title="overview" style="float: left" width="300px" padding="10px">
+<iframe src="/assets/img/activity_fig.png" alt="" title="overview" style="float: left" width="300px" heigth="150px" padding="10px">
 </iframe>       
 Higher brain functions, such as sensory information processing and the attendant complexities of learning, memory storage, and pattern recognition, rely on the orchestrated interplay of a large number of neurons.
 Through their collective dynamics, structure emerges in large-scale spatiotemporal brain activity and information can be introduced into the nervous system.
@@ -32,7 +32,7 @@ descriptions, particularly when trying to describe neuronal synchronization.
 <br>
 Here, we will present a systematic reduction of the population activity of general renewal-type neurons that can account for neuronal refractoriness and spike synchronization dynamics.
 <div class="img_row">
-    <embed class="col three left" src="/assets/img/PAR_network.png" alt="" title="overview" style="float: left">
+    <embed class="col three left" src="/assets/img/PAR_network.png" alt="" title="overview" width="500px" height="auto">
 </div>
 
 <br>
