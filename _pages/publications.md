@@ -40,6 +40,7 @@ spiking networks</strong><br/>
       <ins>B. Pietras</ins>, A. Daffertshofer<br/>
       <em>Chaos</em>, 2016. [<a href="https://aip.scitation.org/doi/10.1063/1.4963371" target="_self">DOI</a>]</li>
 
+  <br>
   <h3 class="year">books</h3>
 </ol>
 
@@ -53,10 +54,12 @@ spiking networks</strong><br/>
       A. Daffertshofer, <ins>B. Pietras</ins><br/>
       in: Meyers R. (eds) <em>Encyclopedia of Complexity and Systems Science</em>, Springer, Berlin, Heidelberg, 2020. [<a href="https://doi.org/10.1007/978-3-642-27737-5_693-1" target="_self">DOI</a>]</li><br/>
 
-
+  <br>
+  <h3 class="year">phd</h3>
+  
 </ol>
 
-  <h3 class="year">phd</h3>
+  
 <h4>PhD thesis</h4>
 
 <strong>Modeling phase synchronization of interacting neuronal populations: From phase reductions to collective behavior of oscillatory neural networks</strong><br/>
