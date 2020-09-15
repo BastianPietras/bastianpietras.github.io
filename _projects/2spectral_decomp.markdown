@@ -12,8 +12,8 @@ function arises from the collective dynamics of networks of spiking neurons. Thi
 chiefly addressed through large-scale numerical simulations. Alternatively, researchers have formulated
 mean-field theories to gain insight into macroscopic states of large neuronal networks in terms of the
 collective firing activity of the neurons, or the firing rate.
-<div>
-    <img src="{{ site.baseurl }}/assets/img/fig1.pdf" alt="" title="overview" style="float: left" height="200px" border="1px"></p>
+<div class="img_row">
+    <img class="col two left" src="{{ site.baseurl }}/assets/img/fig1.pdf" alt="" title="overview" style="float: left"></p>
 </div>
 
 <br>
