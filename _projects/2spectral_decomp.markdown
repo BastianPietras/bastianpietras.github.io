@@ -23,6 +23,10 @@ establishing an exact correspondence between the firing rate of the network and 
 state of the spiking neurons. This has largely constrained the range of applicability of such macroscopic
 descriptions, particularly when trying to describe neuronal synchronization.
 
+<div><p style="float: left;"><img src="http://placekitten.com/g/200/200" height="200px" width="200px" border="1px"></p>
+<p>Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text</p>
+</div>
+
 <br>
 Here, we will present a systematic reduction of the population activity of general renewal-type neurons that can account for neuronal refractoriness and spike synchronization dynamics.
 The derivation is based on an eigenmode expansion of the associated refractory density equation. Already a first-order approximation yields an accurate low-dimensional firing rate model that captures spike synchronization effects and fast transient dynamics at stimulus onset. The characteristic time scales of the system can be determined through a simple eigenvalue formula in terms of the interspike interval density or the survival function of the renewal process. The eigenvalue formula thus directly links microscopic neuronal properties to observed macroscopic behavior. Last, as our approach generalizes previous spectral methods for Fokker-Planck equations to arbitrary renewal models, we obtain equivalent firing rate dynamics for integrate-and-fire models driven by white noise in an alternative, but more elegant way.
