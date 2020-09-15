@@ -13,7 +13,7 @@ chiefly addressed through large-scale numerical simulations. Alternatively, rese
 mean-field theories to gain insight into macroscopic states of large neuronal networks in terms of the
 collective firing activity of the neurons, or the firing rate.
 <div class="img_row">
-    <img class="col two left" src="{{ site.baseurl }}/assets/img/fig1.pdf" alt="" title="overview" style="float: left">
+    <img class="col two left" src="/assets/img/fig1.pdf" alt="" title="overview" style="float: left">
 </div>
 
 <br>
