@@ -38,7 +38,7 @@ spiking networks</strong><br/>
 
 <br/>
 
-</ol reversed>
+</ol>
 
 <hr />
 
@@ -53,7 +53,7 @@ spiking networks</strong><br/>
 
 <br/>
 
-</ol reversed>
+</ol>
 
 <hr />
 
