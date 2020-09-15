@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Modeling phase synchronization of interacting neuronal populations
-description: PhD research
-img: /assets/img/phd_cover.png
+title: 
+description: Modeling phase synchronization of interacting neuronal populations
+img: /assets/img/phd_cover1.pdf
 redirect: https://research.vu.nl/en/publications/modeling-phase-synchronization-of-interacting-neuronal-population
 ---
 
