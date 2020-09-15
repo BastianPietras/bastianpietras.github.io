@@ -9,32 +9,32 @@ title: publications
   
   <li> <strong>Low-dimensional firing-rate dynamics for populations of renewal-type spiking neurons</strong><br/>
       <ins>B. Pietras</ins>, N. Gallice, T. Schwalger<br/>
-      Editor's Suggestion in: <em>Phys. Rev. E.</em>, 2020. [<a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.102.022407" target="_self">DOI</a>]<br/>
+      Editor's Suggestion in: <em>Phys. Rev. E.</em>, 2020. [<a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.102.022407" target="_self">DOI</a>]</li><br/>
   
   <li> <strong>An exact firing rate model reveals the differential effects of chemical versus electrical synapses in
 spiking networks</strong><br/>
       <ins>B. Pietras</ins>, F. Devalle, A. Roxin, A. Daffertshofer, E. Montbri&oacute;<br/>
-      <em>Phys. Rev. E.</em>, 2019. [<a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.100.042412" target="_self">DOI</a>]<br/>
+      <em>Phys. Rev. E.</em>, 2019. [<a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.100.042412" target="_self">DOI</a>]</li><br/>
   
   <li> <strong>Network dynamics of coupled oscillators and phase reduction techniques</strong><br/>
       <ins>B. Pietras</ins>, A. Daffertshofer<br/>
-      <em>Physics Reports</em>, 2019. [<a href="https://www.sciencedirect.com/science/article/pii/S0370157319302327" target="_self">DOI</a>]<br/>
+      <em>Physics Reports</em>, 2019. [<a href="https://www.sciencedirect.com/science/article/pii/S0370157319302327" target="_self">DOI</a>]</li><br/>
   
   <li> <strong>First-order phase transitions in the Kuramoto model with compact bimodal frequency distributions</strong><br/>
       <ins>B. Pietras</ins>, N. Deschle, A. Daffertshofer<br/>
-      <em>Phys. Rev. E</em>, 2018. [<a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.98.062219" target="_self">DOI</a>]<br/>
+      <em>Phys. Rev. E</em>, 2018. [<a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.98.062219" target="_self">DOI</a>]</li><br/>
   
   <li> <strong>Scale-freeness or partial synchronization in neural mass phase oscillator networks: Pick one of two?</strong><br/>
       A. Daffertshofer, R. Ton, <ins>B. Pietras</ins>, M. L. Kringelbach, G. Deco<br/>
-      <em>NeuroImage</em>, 2018. [<a href="https://www.sciencedirect.com/science/article/pii/S1053811918302805" target="_self">DOI</a>]<br/>
+      <em>NeuroImage</em>, 2018. [<a href="https://www.sciencedirect.com/science/article/pii/S1053811918302805" target="_self">DOI</a>]</li><br/>
         
   <li><strong>Equivalence of coupled networks and networks with multimodal frequency distributions: Conditions for the bimodal and trimodal case</strong><br/>
       <ins>B. Pietras</ins>, N. Deschle, A. Daffertshofer<br/>
-      <em>Phys. Rev. E</em>, 2016. [<a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.94.052211" target="_self">DOI</a>]<br/>
+      <em>Phys. Rev. E</em>, 2016. [<a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.94.052211" target="_self">DOI</a>]</li><br/>
   
   <li> <strong>Ott-Antonsen attractiveness for parameter-dependent oscillatory systems</strong><br/>
       <ins>B. Pietras</ins>, A. Daffertshofer<br/>
-      <em>Chaos</em>, 2016. [<a href="https://aip.scitation.org/doi/10.1063/1.4963371" target="_self">DOI</a>]
+      <em>Chaos</em>, 2016. [<a href="https://aip.scitation.org/doi/10.1063/1.4963371" target="_self">DOI</a>]</li>
 
 <br/>
 
@@ -48,7 +48,7 @@ spiking networks</strong><br/>
   
   <li> <strong>Phase synchronization in neural systems</strong><br/>
       A. Daffertshofer, <ins>B. Pietras</ins><br/>
-      in: Meyers R. (eds) <em>Encyclopedia of Complexity and Systems Science</em>, Springer, Berlin, Heidelberg, 2020. [<a href="https://doi.org/10.1007/978-3-642-27737-5_693-1" target="_self">DOI</a>]<br/>
+      in: Meyers R. (eds) <em>Encyclopedia of Complexity and Systems Science</em>, Springer, Berlin, Heidelberg, 2020. [<a href="https://doi.org/10.1007/978-3-642-27737-5_693-1" target="_self">DOI</a>]</li><br/>
 
 
 <br/>
