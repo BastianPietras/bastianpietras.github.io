@@ -8,13 +8,13 @@ title: teaching
 
 <table class="tg">
   <tr>
-    <td style="width:130px"> SS 2020  </td>
+    <td style="width:110px"; font-weight: bold;> SS 2020  </td>
     <td>Lecture: Probability Theory and Statistics for Computer Scientists (Assistant)</td>
   </tr>
   
   <tr>
     <td> SS 2020  </td>
-    <td>Seminar: Current Topics in Computational Neuroscience (with Prof. T. Schwalger)</td>
+    <td>Seminar: Current Topics in Computational Neuroscience <br>(with Prof. T. Schwalger)</td>
   </tr>
   
   <tr>
@@ -34,7 +34,7 @@ title: teaching
   
   <tr>
     <td> SS 2019  </td>
-    <td>Seminar: Current Topics in Computational Neuroscience (with Prof. T. Schwalger)</td>
+    <td>Seminar: Current Topics in Computational Neuroscience <br>(with Prof. T. Schwalger)</td>
   </tr>
   
 </table>
