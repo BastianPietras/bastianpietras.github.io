@@ -39,4 +39,5 @@ From this refractory density equation, one can readily infer the population acti
 In order to derive low-dimensional firing rate models, we perform a spectral decomposition, which is based on an eigenmode expansion of the refractory density equation.
 Already a first-order approximation yields an accurate firing rate model that captures spike synchronization effects and fast transient dynamics at stimulus onset. The characteristic time scales of the system can be determined through a simple eigenvalue formula in terms of the interspike interval density or the survival function of the renewal process. The eigenvalue formula thus directly links microscopic neuronal properties to observed macroscopic behavior. 
 Last, as our approach generalizes previous spectral methods for Fokker-Planck equations to arbitrary renewal models, we obtain equivalent firing rate dynamics for integrate-and-fire models driven by white noise in an alternative, but more elegant way.
-
+<div><p style="float: center;"><img src="{{ site.baseurl }}/assets/img/Fig2_PSTH.png" alt="" title="overview" style="float: center" width="680px" height="auto" padding="10px"></p>  
+</div>
