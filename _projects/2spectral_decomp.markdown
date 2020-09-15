@@ -30,9 +30,11 @@ Here, we will present a systematic reduction of the population activity of gener
     <img class="col three left" src="{{ site.baseurl }}//assets/img/PAR_network.png" alt="" title="overview" width="800px" height="auto">
 </div>
 A single neuron is uniquely characterized through the probability to elicit a spike in the next instant in time, given its age (i.e. the time elapsed since its last spike) and some input.
-Assuming an infinitely large population of similar neurons, we group all those neurons together that have the same age.
+This spiking probability is proportional to the so-called hazard rate, depicted on the left.
+The hazard rate, in turn, is closely related to the interspike interval (ISI) density P, here shown in the middle.
+Assuming an infinitely large population of similar neurons, we can group all those neurons together that have the same age.
 The resulting density is called the refractory density, and follows a particular continuity equation.
-One can readily infer the population activity from this refractory density equation. 
+From this refractory density equation, one can readily infer the population activity that shows some oscillatory behavior as a response to a step-input current (right).
 
 In order to derive low-dimensional firing rate models, we perform a spectral decomposition, which is based on an eigenmode expansion of the refractory density equation.
 Already a first-order approximation yields an accurate firing rate model that captures spike synchronization effects and fast transient dynamics at stimulus onset. The characteristic time scales of the system can be determined through a simple eigenvalue formula in terms of the interspike interval density or the survival function of the renewal process. The eigenvalue formula thus directly links microscopic neuronal properties to observed macroscopic behavior. 
