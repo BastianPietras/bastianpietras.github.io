@@ -27,11 +27,14 @@ descriptions, particularly when trying to describe neuronal synchronization.
 
 Here, we will present a systematic reduction of the population activity of general renewal-type neurons that can account for neuronal refractoriness and spike synchronization dynamics.
 <div class="img_row">
-    <img class="col three left" src="{{ site.baseurl }}//assets/img/PAR_network.png" alt="" title="overview">
+    <img class="col three left" src="{{ site.baseurl }}//assets/img/PAR_network.png" alt="" title="overview" width="800px" height="auto">
 </div>
-A single neuron is uniquely characterized through the probability to spike in the next instant in time, given its age (i.e. the time elapsed since its last spike) and some input.
+A single neuron is uniquely characterized through the probability to elicit a spike in the next instant in time, given its age (i.e. the time elapsed since its last spike) and some input.
+Assuming an infinitely large population of similar neurons, we group all those neurons together that have the same age.
+The resulting density is called the refractory density, and follows a particular continuity equation.
+One can readily infer the population activity from this refractory density equation. 
 
-
-The derivation is based on an eigenmode expansion of the associated refractory density equation. Already a first-order approximation yields an accurate low-dimensional firing rate model that captures spike synchronization effects and fast transient dynamics at stimulus onset. The characteristic time scales of the system can be determined through a simple eigenvalue formula in terms of the interspike interval density or the survival function of the renewal process. The eigenvalue formula thus directly links microscopic neuronal properties to observed macroscopic behavior. 
+In order to derive low-dimensional firing rate models, we perform a spectral decomposition, which is based on an eigenmode expansion of the refractory density equation.
+Already a first-order approximation yields an accurate firing rate model that captures spike synchronization effects and fast transient dynamics at stimulus onset. The characteristic time scales of the system can be determined through a simple eigenvalue formula in terms of the interspike interval density or the survival function of the renewal process. The eigenvalue formula thus directly links microscopic neuronal properties to observed macroscopic behavior. 
 Last, as our approach generalizes previous spectral methods for Fokker-Planck equations to arbitrary renewal models, we obtain equivalent firing rate dynamics for integrate-and-fire models driven by white noise in an alternative, but more elegant way.
 
