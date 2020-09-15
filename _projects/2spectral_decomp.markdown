@@ -5,7 +5,7 @@ description: spectral decomposition of the refractory density
 img: /assets/img/lowdim_cover.png
 ---
         
-<iframe class="col two right" src="/assets/img/activity_fig.png" alt="" title="overview" style="float: left" width=300px; padding=10px>
+<iframe class="col two right" src="/assets/img/activity_fig.png" alt="" title="overview" style="float: left" width="300px" padding="10px">
 </iframe>       
 Higher brain functions, such as sensory information processing and the attendant complexities of learning, memory storage, and pattern recognition, rely on the orchestrated interplay of a large number of neurons.
 Through their collective dynamics, structure emerges in large-scale spatiotemporal brain activity and information can be introduced into the nervous system.
