@@ -33,11 +33,14 @@ This spiking probability is proportional to the so-called hazard rate, depicted 
 The hazard rate, in turn, is closely related to the interspike interval (ISI) density P, here shown in the middle.
 Assuming an infinitely large population of similar neurons, we can group all those neurons together that have the same age.
 The resulting density is called the refractory density, and follows a particular continuity equation.
-From this refractory density equation, one can readily infer the population activity that shows some oscillatory behavior as a response to a step-input current (right).
+From this refractory density equation, one can readily infer the population activity that shows some oscillatory behavior as a response to a step-input current, see the blue curve in the right panel.
+There, we also plotted the population activity for a network of 10'000 neurons (gray) as well as the dynamics obtained with a traditional firing rate model (red), which however is unable to capture the ringing behavior of the population response.
 
 
-In order to derive low-dimensional firing rate models, we perform a spectral decomposition, which is based on an eigenmode expansion of the refractory density equation.
-Already a first-order approximation yields an accurate firing rate model that captures spike synchronization effects and fast transient dynamics at stimulus onset. The characteristic time scales of the system can be determined through a simple eigenvalue formula in terms of the interspike interval density or the survival function of the renewal process. The eigenvalue formula thus directly links microscopic neuronal properties to observed macroscopic behavior. 
-Last, as our approach generalizes previous spectral methods for Fokker-Planck equations to arbitrary renewal models, we obtain equivalent firing rate dynamics for integrate-and-fire models driven by white noise in an alternative, but more elegant way.
+In order to derive accurate low-dimensional firing rate models, we perform a spectral decomposition, which is based on an eigenmode expansion, of the refractory density equation.
+Already a first-order approximation yields an accurate firing rate model that captures spike synchronization effects and fast transient dynamics at stimulus onset, see the figure at the bottom for three different neuron types.
+The characteristic time scales of the system, such as the decay rate and the frequency of the ringing behavior, can be determined through a simple eigenvalue formula in terms of the ISI density P of the renewal process.
+The eigenvalue formula thus directly links microscopic neuronal properties to observed macroscopic behavior. 
+Last, we would like to note that our approach generalizes previous spectral methods for Fokker-Planck equations to arbitrary renewal models and we obtain equivalent firing rate dynamics for integrate-and-fire models driven by white noise in an alternative, but more elegant way.
 <div><p style="float: center;"><img src="{{ site.baseurl }}/assets/img/Fig2_PSTH.png" alt="" title="overview" style="float: center" width="680px" height="auto" padding="10px"></p>  
 </div>
