@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Phase synchrony
-description: between interacting neuronal populations
+description: of interacting neuronal populations
 img: /assets/img/phd_cover2.pdf
 redirect: https://research.vu.nl/en/publications/modeling-phase-synchronization-of-interacting-neuronal-population
 ---
