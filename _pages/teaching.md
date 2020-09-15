@@ -8,7 +8,7 @@ title: teaching
 
 <table class="tg">
   <tr>
-    <td style="width:110px"; font-weight: bold;> SS 2020  </td>
+    <td style="width:110px;font-weight:bold"> SS 2020  </td>
     <td>Lecture: Probability Theory and Statistics for Computer Scientists (Assistant)</td>
   </tr>
   
