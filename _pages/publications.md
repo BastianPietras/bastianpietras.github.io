@@ -36,7 +36,6 @@ spiking networks</strong><br/>
       <ins>B. Pietras</ins>, A. Daffertshofer<br/>
       <em>Chaos</em>, 2016. [<a href="https://aip.scitation.org/doi/10.1063/1.4963371" target="_self">DOI</a>]</li>
 
-<br/>
 
 </ol>
 
@@ -50,8 +49,6 @@ spiking networks</strong><br/>
       A. Daffertshofer, <ins>B. Pietras</ins><br/>
       in: Meyers R. (eds) <em>Encyclopedia of Complexity and Systems Science</em>, Springer, Berlin, Heidelberg, 2020. [<a href="https://doi.org/10.1007/978-3-642-27737-5_693-1" target="_self">DOI</a>]</li><br/>
 
-
-<br/>
 
 </ol>
 
