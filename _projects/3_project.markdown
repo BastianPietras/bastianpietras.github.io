@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Project 3
-description: a project that redirects to another website
-img:
-redirect: https://unsplash.com
+title: Modeling phase synchronization of interacting neuronal populations
+description: PhD research
+img: /assets/img/phd_cover.png
+redirect: https://research.vu.nl/en/publications/modeling-phase-synchronization-of-interacting-neuronal-population
 ---
 
 Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
