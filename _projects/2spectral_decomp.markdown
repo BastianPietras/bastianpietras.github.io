@@ -6,15 +6,17 @@ img: /assets/img/lowdim_cover.png
 ---
 
 
-<div><p style="float: left;"><img src="{{ site.baseurl }}/assets/img/activity_fig.png" alt="" title="overview" style="float: left" width="400px" height="auto" padding="1px"></p>    
+<div>  
 <p>Higher brain functions, such as sensory information processing and the attendant complexities of learning, memory storage, and pattern recognition, rely on the orchestrated interplay of a large number of neurons.
 Through their collective dynamics, structure emerges in large-scale spatiotemporal brain activity and information can be introduced into the nervous system.
+</p><p style="float: right;"><img src="{{ site.baseurl }}/assets/img/activity_fig.png" alt="" title="overview" style="float: left" width="400px" height="auto" padding="1px"></p>  
+</div>
 A major goal of neuroscience, statistical physics, and nonlinear dynamics is to understand how brain
 function arises from the collective dynamics of networks of spiking neurons. This challenge has been
 chiefly addressed through large-scale numerical simulations. Alternatively, researchers have formulated
 mean-field theories to gain insight into macroscopic states of large neuronal networks in terms of the
 collective firing activity of the neurons, or the firing rate.
-</div>
+
 
 <br>
 To describe the collective dynamics of large populations of neurons, one often resorts to traditional firing-rate, or neural-mass, models. These models are low-dimensional and therefore analytically tractable. But they are also heuristic and cannot capture more complex dynamics of stochastic spiking neurons.
@@ -32,7 +34,7 @@ descriptions, particularly when trying to describe neuronal synchronization.
 <br>
 Here, we will present a systematic reduction of the population activity of general renewal-type neurons that can account for neuronal refractoriness and spike synchronization dynamics.
 <div class="img_row">
-    <embed class="col three left" src="{{ site.baseurl }}//assets/img/PAR_network.png" alt="" title="overview" max-width="1000px" height="auto">
+    <embed class="col three left" src="{{ site.baseurl }}//assets/img/PAR_network.png" alt="" title="overview" max-width="600px" height="auto">
 </div>
 
 <br>
