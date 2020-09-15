@@ -2,7 +2,7 @@
 layout: page
 title: Stochastic neural field model
 description: 
-img: /assets/img/12.jpg
+img: /assets/img/stochring_cover.pdf
 redirect: https://www.youtube.com/watch?v=hLkP9h434fI
 ---
 
