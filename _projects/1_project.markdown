@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Stochastic neural field model
-description: 
-img: /assets/img/stochring_cover.pdf
+title: Fluctuations in neural field models
+description: for finite networks of spiking neurons
+img: /assets/img/stochring_cover.png
 redirect: https://www.youtube.com/watch?v=hLkP9h434fI
 ---
 
