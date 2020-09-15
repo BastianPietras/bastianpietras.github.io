@@ -7,10 +7,12 @@ title: publications
 
 <ol reversed>
   
+  <h3 class="year">2020</h3>
   <li> <strong>Low-dimensional firing-rate dynamics for populations of renewal-type spiking neurons</strong><br/>
       <ins>B. Pietras</ins>, N. Gallice, T. Schwalger<br/>
       Editor's Suggestion in: <em>Phys. Rev. E.</em>, 2020. [<a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.102.022407" target="_self">DOI</a>]</li><br/>
   
+  <h3 class="year">2019</h3>
   <li> <strong>An exact firing rate model reveals the differential effects of chemical versus electrical synapses in
 spiking networks</strong><br/>
       <ins>B. Pietras</ins>, F. Devalle, A. Roxin, A. Daffertshofer, E. Montbri&oacute;<br/>
