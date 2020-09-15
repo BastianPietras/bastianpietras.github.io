@@ -40,6 +40,19 @@ spiking networks</strong><br/>
 
 <hr />
 
+<h4>Book chapters</h4>
+
+<ol reversed>
+  
+  <li> <strong>Phase synchronization in neural systems</strong><br/>
+      A. Daffertshofer, <ins>B. Pietras</ins><br/>
+      in: Meyers R. (eds) <em>Encyclopedia of Complexity and Systems Science</em>, Springer, Berlin, Heidelberg, 2020. [<a href="https://doi.org/10.1007/978-3-642-27737-5_693-1" target="_self">DOI</a>]<br/>
+
+
+<br/>
+
+<hr />
+
 <h4>PhD thesis</h4>
 
 <strong>Modeling phase synchronization of interacting neuronal populations: From phase reductions to collective behavior of oscillatory neural networks</strong><br/>
