@@ -4,11 +4,11 @@ permalink: /teaching/
 title: teaching
 ---
 
-<h3>courses at TU Berlin</h3>
+<h4>courses at TU Berlin</h4>
 
 <table class="tg">
   <tr>
-    <td> SS 2020  </td>
+    <td style="width:130px"> SS 2020  </td>
     <td>Lecture: Probability Theory and Statistics for Computer Scientists (Assistant)</td>
   </tr>
   
