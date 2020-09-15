@@ -3,12 +3,11 @@ layout: page
 permalink: /teaching/
 title: teaching
 ---
-
 <h4>courses at TU Berlin</h4>
 
 <table class="tg">
   <tr>
-    <td style="width:110px;font-weight:bold"> SS 2020  </td>
+    <td style="width:110px"> SS 2020  </td>
     <td>Lecture: Probability Theory and Statistics for Computer Scientists (Assistant)</td>
   </tr>
   
