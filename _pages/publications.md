@@ -49,6 +49,9 @@ spiking networks</strong><br/>
 
 <ol reversed>
   
+  <li> <strong>Reduced Phase Models of Oscillatory Neural Networks</strong><br/>
+      <ins>B. Pietras</ins>, A. Daffertshofer<br/>
+      in: Stefanovska A. and McClintock P.V.E. (eds) <em>Physics of Biological Oscillators.</em> Understanding Complex Systems, Springer, Cham, 2021. [<a href="https://doi.org/10.1007/978-3-030-59805-1_3" target="_self">DOI</a>]</li><br/>
   
   <li> <strong>Phase synchronization in neural systems</strong><br/>
       A. Daffertshofer, <ins>B. Pietras</ins><br/>
