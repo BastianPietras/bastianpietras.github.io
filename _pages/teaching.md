@@ -32,7 +32,7 @@ title: teaching
   <tr>
     <td> SS 2019  </td>
     <td>Lecture: Mathematics for Physicists IV (Assistant)
-    <br>Seminar: Current Topics in Computational Neuroscience (with Prof. T. Schwalger)</td>
+    <br>Seminar: Current Topics in Computational Neuroscience (with T. Schwalger)</td>
   </tr>
   
 </table>
