@@ -26,7 +26,7 @@ title: teaching
   <tr>
     <td> WS 2019/20  </td>
     <td>Lecture: Analysis I and Linear Algebra for Engineers (Assistant)
-    <br>Lecture: Mathematics Prep-Course for Computational Neuroscience (Assistant)</td>
+    <br>Lecture: Math Prep-Course for Computational Neuroscience (Assistant)</td>
   </tr>
   
   <tr>
