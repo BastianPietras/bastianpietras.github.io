@@ -7,33 +7,32 @@ title: teaching
 
 <table class="tg">
   <tr>
-    <td style="width:110px"> SS 2020  </td>
-    <td>Lecture: Probability Theory and Statistics for Computer Scientists <br>(Assistant)</td>
+    <td style="width:110px"> SS 2021  </td>
+    <td>Lecture: Probability Theory and Statistics for Computer Scientists (Lecturer)
+    <br>Seminar: Current Topics in Computational Neuroscience (with Prof. T. Schwalger)</td>
+  </tr>
+  
+  <tr>
+    <td> WS 2020/21  </td>
+    <td>Lecture: Analysis II (Assistant)</td>
   </tr>
   
   <tr>
     <td> SS 2020  </td>
-    <td>Seminar: Current Topics in Computational Neuroscience <br>(with Prof. T. Schwalger)</td>
+    <td>Lecture: Probability Theory and Statistics for Computer Scientists (Assistant)<br>
+        Seminar: Current Topics in Computational Neuroscience (with Prof. T. Schwalger)</td>
   </tr>
   
   <tr>
     <td> WS 2019/20  </td>
-    <td>Lecture: Analysis I and Linear Algebra for Engineers <br>(Assistant)</td>
-  </tr>
-  
-  <tr>
-    <td> WS 2019/20  </td>
-    <td>Lecture: Mathematics Prep-Course for Computational Neuroscience <br>(Assistant)</td>
+    <td>Lecture: Analysis I and Linear Algebra for Engineers (Assistant)
+    <br>Lecture: Mathematics Prep-Course for Computational Neuroscience (Assistant)</td>
   </tr>
   
   <tr>
     <td> SS 2019  </td>
-    <td>Lecture: Mathematics for Physicists IV <br>(Assistant)</td>
-  </tr>
-  
-  <tr>
-    <td> SS 2019  </td>
-    <td>Seminar: Current Topics in Computational Neuroscience <br>(with Prof. T. Schwalger)</td>
+    <td>Lecture: Mathematics for Physicists IV (Assistant)
+    <br>Seminar: Current Topics in Computational Neuroscience (with Prof. T. Schwalger)</td>
   </tr>
   
 </table>
