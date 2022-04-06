@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 title: <strong>Bastian</strong> Pietras
-description: Marie Sklodowska-Curie Postdoctoral Research in Computational Neuroscience
+description: Marie Sklodowska-Curie Postdoctoral Researcher in Computational Neuroscience
 
 profile:
   align: right
