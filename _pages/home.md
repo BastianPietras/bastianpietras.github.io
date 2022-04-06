@@ -2,18 +2,18 @@
 layout: home
 permalink: /
 title: <strong>Bastian</strong> Pietras
-description: Postdoctoral fellow in <a href="https://www.math.tu-berlin.de/fachgebiete_ag_stochfinanz/fg_daten_assimilation_in_den_neurowissenschaften/v_menue/fg_daten_assimilation_in_den_neurowissenschaften/" target="_self">Computational Neuroscience and Data Assimilation</a>
+description: Marie Sklodowska-Curie Postdoctoral Research in Computational Neuroscience
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-           <p>Technische Universität Berlin</p>
-           <p>Institut für Mathematik</p>
-           <p>Sekretariat MA 7-2</p>
-           <p>Straße des 17. Juni 136</p>
-           <p>10623 Berlin</p>
-           <p><a href="mailto:pietras@tu-berlin.de">Email</a></p>
+           <p>Universitat Pompeu Fabra</p>
+           <p>Neuronal Dynamics group</p>
+           <p>Department of Information and Communication Technologies</p>
+           <p>Edifici Tànger, Tànger, 122-140</p>
+           <p>08018 Barcelona</p>
+           <p><a href="mailto:bastian.pietras@upf.edu">Email</a></p>
            
 
 news: true
