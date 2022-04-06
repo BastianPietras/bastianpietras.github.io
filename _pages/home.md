@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-           <p>UPF</p>
+           <p>UPF Barcelona</p>
            <p>Neuronal Dynamics group</p>
            <p>Department of Information and Communication Technologies</p>
            <p>Tànger, 122-140</p>
