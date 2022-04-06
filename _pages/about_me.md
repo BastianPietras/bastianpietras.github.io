@@ -8,7 +8,7 @@ title: about me
 <table class="tg">
   <tr>
     <td> since <br/>  01/2022  </td>
-    <td>Postdoc with <a href="https://www.upf.edu/web/ernest-montbrio" target="_self">Ernest Montbri&oacute;</a> at UPF, Barcelona, Spain, funded through the Marie Sklodowska-Curie Individual Fellowship "NeuralFieldTheoriES"</td>
+    <td>Postdoc with <a href="https://www.upf.edu/web/ernest-montbrio" target="_self">Ernest Montbri&oacute;</a> at Universitat Pompeu Fabra, Barcelona, Spain, funded through the Marie Sklodowska-Curie Individual Fellowship "NeuralFieldTheoriES"</td>
   </tr>
   <tr>
     <td>02/19 -<br/>12/21</td>
