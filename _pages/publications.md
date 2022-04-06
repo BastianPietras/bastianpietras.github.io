@@ -7,6 +7,16 @@ title: publications
 
 <ol reversed>
   
+  <h3 class="year">2022</h3>
+  <li> <strong>Kuramoto model for populations of quadratic integrate-and-fire neurons with chemical and electrical coupling</strong><br/>
+      P. Clusella, <ins>B. Pietras</ins>, E. Montbri&oacute;<br/>
+      <em>Chaos</em>, 2022. [<a href="https://aip.scitation.org/doi/full/10.1063/5.0075285" target="_self">DOI</a>]</li><br/>
+  
+  <li> <strong>Mesoscopic description of hippocampal replay and metastability in spiking neural networks with short-term plasticity</strong><br/>
+      <ins>B. Pietras</ins>, V. Schmutz, T. Schwalger<br/>
+      <em>arXiv</em>, 2022. [<a href="https://arxiv.org/abs/2204.01675" target="_self">DOI</a>]</li><br/>
+  
+  
   <h3 class="year">2020</h3>
   <li> <strong>Low-dimensional firing-rate dynamics for populations of renewal-type spiking neurons</strong><br/>
       <ins>B. Pietras</ins>, N. Gallice, T. Schwalger<br/>
