@@ -10,23 +10,23 @@ title: publications
   <h3 class="year">2022</h3>
   <li> <strong>Kuramoto model for populations of quadratic integrate-and-fire neurons with chemical and electrical coupling</strong><br/>
       P. Clusella, <ins>B. Pietras</ins>, E. Montbri&oacute;<br/>
-      <em>Chaos</em>, 2022. [<a href="https://aip.scitation.org/doi/full/10.1063/5.0075285" target="_self">DOI</a>]</li><br/>
+      <em>Chaos</em>, 2022. [<a href="https://aip.scitation.org/doi/full/10.1063/5.0075285" target="_self">DOI</a>, <a href="https://arxiv.org/abs/2110.07665" target="_self">preprint</a>]</li><br/>
   
   <li> <strong>Mesoscopic description of hippocampal replay and metastability in spiking neural networks with short-term plasticity</strong><br/>
       <ins>B. Pietras</ins>, V. Schmutz, T. Schwalger<br/>
-      <em>arXiv</em>, 2022. [<a href="https://arxiv.org/abs/2204.01675" target="_self">DOI</a>]</li><br/>
+      <em>arXiv</em>, 2022. [<a href="https://arxiv.org/abs/2204.01675" target="_self">preprint</a>]</li><br/>
   
   
   <h3 class="year">2020</h3>
   <li> <strong>Low-dimensional firing-rate dynamics for populations of renewal-type spiking neurons</strong><br/>
       <ins>B. Pietras</ins>, N. Gallice, T. Schwalger<br/>
-      Editor's Suggestion in: <em>Phys. Rev. E.</em>, 2020. [<a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.102.022407" target="_self">DOI</a>]</li><br/>
+      Editor's Suggestion in: <em>Phys. Rev. E.</em>, 2020. [<a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.102.022407" target="_self">DOI</a>, <a href="https://arxiv.org/abs/2003.06038" target="_self">preprint</a>]</li><br/>
   
   <h3 class="year">2019</h3>
   <li> <strong>An exact firing rate model reveals the differential effects of chemical versus electrical synapses in
 spiking networks</strong><br/>
       <ins>B. Pietras</ins>, F. Devalle, A. Roxin, A. Daffertshofer, E. Montbri&oacute;<br/>
-      <em>Phys. Rev. E.</em>, 2019. [<a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.100.042412" target="_self">DOI</a>]</li><br/>
+      <em>Phys. Rev. E.</em>, 2019. [<a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.100.042412" target="_self">DOI</a>, <a href="https://arxiv.org/abs/1905.01917" target="_self">preprint</a>]</li><br/>
   
   <li> <strong>Network dynamics of coupled oscillators and phase reduction techniques</strong><br/>
       <ins>B. Pietras</ins>, A. Daffertshofer<br/>
@@ -35,7 +35,7 @@ spiking networks</strong><br/>
   <h3 class="year">2018</h3>
   <li> <strong>First-order phase transitions in the Kuramoto model with compact bimodal frequency distributions</strong><br/>
       <ins>B. Pietras</ins>, N. Deschle, A. Daffertshofer<br/>
-      <em>Phys. Rev. E</em>, 2018. [<a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.98.062219" target="_self">DOI</a>]</li><br/>
+      <em>Phys. Rev. E</em>, 2018. [<a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.98.062219" target="_self">DOI</a>, <a href="https://arxiv.org/abs/1810.01673" target="_self">preprint</a>]</li><br/>
   
   <li> <strong>Scale-freeness or partial synchronization in neural mass phase oscillator networks: Pick one of two?</strong><br/>
       A. Daffertshofer, R. Ton, <ins>B. Pietras</ins>, M. L. Kringelbach, G. Deco<br/>
@@ -44,11 +44,11 @@ spiking networks</strong><br/>
   <h3 class="year">2016</h3>      
   <li><strong>Equivalence of coupled networks and networks with multimodal frequency distributions: Conditions for the bimodal and trimodal case</strong><br/>
       <ins>B. Pietras</ins>, N. Deschle, A. Daffertshofer<br/>
-      <em>Phys. Rev. E</em>, 2016. [<a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.94.052211" target="_self">DOI</a>]</li><br/>
+      <em>Phys. Rev. E</em>, 2016. [<a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.94.052211" target="_self">DOI</a>, <a href="https://arxiv.org/abs/1602.08368" target="_self">preprint</a>]</li><br/>
   
   <li> <strong>Ott-Antonsen attractiveness for parameter-dependent oscillatory systems</strong><br/>
       <ins>B. Pietras</ins>, A. Daffertshofer<br/>
-      <em>Chaos</em>, 2016. [<a href="https://aip.scitation.org/doi/10.1063/1.4963371" target="_self">DOI</a>]</li>
+      <em>Chaos</em>, 2016. [<a href="https://aip.scitation.org/doi/10.1063/1.4963371" target="_self">DOI</a>, <a href="https://arxiv.org/abs/1608.02723" target="_self">preprint</a>]</li>
 
   <br>
   <h3 class="year">books</h3>
