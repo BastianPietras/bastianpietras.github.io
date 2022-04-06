@@ -7,7 +7,11 @@ title: about me
 
 <table class="tg">
   <tr>
-    <td> since <br/>  02/2019  </td>
+    <td> since <br/>  01/2022  </td>
+    <td>Postdoc with <a href="https://www.upf.edu/web/ernest-montbrio" target="_self">Ernest Montbrio</a> at UPF, Barcelona, Spain</td>
+  </tr>
+  <tr>
+    <td>02/19 -<br/>12/21</td>
     <td>Postdoc with <a href="http://page.math.tu-berlin.de/~schwalge/" target="_self">Tilo Schwalger</a> at TU Berlin and Bernstein Center for Computational Neuroscience, Berlin, Germany</td>
   </tr>
   <tr>
