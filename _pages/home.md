@@ -8,10 +8,10 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-           <p>Universitat Pompeu Fabra</p>
+           <p>UPF</p>
            <p>Neuronal Dynamics group</p>
            <p>Department of Information and Communication Technologies</p>
-           <p>Edifici Tànger, Tànger, 122-140</p>
+           <p>Tànger, 122-140</p>
            <p>08018 Barcelona</p>
            <p><a href="mailto:bastian.pietras@upf.edu">Email</a></p>
            
