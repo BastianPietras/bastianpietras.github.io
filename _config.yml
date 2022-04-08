@@ -2,9 +2,9 @@
 # Site settings
 # -----------------------------------------------------------------------------
 name: Bastian Pietras
-email: bastian.pietras@bccn-berlin.de
+email: bastian.pietras@upf.edu
 description: > # this means to ignore newlines until "url:"
-  Postdoctoral fellow in Computational Neuroscience and Data Assimilation
+  Marie Sklodowska-Curie Postdoctoral Researcher in Computational Neuroscience
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
@@ -41,7 +41,7 @@ collections:
     output: true
     permalink: /projects/:path/
 
-news_limit: 9
+news_limit: 11
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
