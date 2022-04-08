@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-01-17 
+date: 2022-01-03 
 inline: true
 ---
 
-I have started my _Marie Sklodowska-Curie Individual Fellowship_ together with [Ernest Montbri&oacute;](https://www.upf.edu/web/ernest-montbrio) at the UPF in Barcelona. Exciting times ahead!
+New paper out on a _Kuramoto model for QIF neurons with gap junctions_ together with Pau Clusella and Ernest Montbri&oacute; in [_Chaos_](https://aip.scitation.org/doi/full/10.1063/5.0075285)!
