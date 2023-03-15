@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-04-05 
+date: 2022-12-22 
 inline: true
 ---
 
-New preprint on [_Hippocampal replay and metastability_](https://arxiv.org/abs/2204.01675) in a mesoscopic mean-field model with short-term depression. Fun work with Valentin Schmutz and Tilo Schwalger!
+Finally published! [_Hippocampal replay and metastability_](https://doi.org/10.1371/journal.pcbi.1010809) in a mesoscopic mean-field model with short-term depression. Fun work with Valentin Schmutz and Tilo Schwalger!
