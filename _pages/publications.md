@@ -16,17 +16,17 @@ title: publications
   
   <li> <strong>Exact finite-dimensional description for networks of globally coupled spiking neurons</strong><br/>
       <ins>B. Pietras</ins>, R. Cestnik, A. Pikovsky<br/>
-      <em>Phys. Rev. E.</em>, 2023. [<a href="https://doi.org/10.1103/PhysRevE.107.024315" target="_self">DOI</a>, <a href="https://github.com/BastianPietras/bastianpietras.github.io/raw/master/files/2023_Pietras_Cestnik_Pikovsky.pdf" target="_self">PDF</a>, <a href="https://doi.org/10.48550/arXiv.2209.00922" target="_self">arXiv</a>]</li><br/>
+      <em>Phys. Rev. E.</em>, 2023. [<a href="https://doi.org/10.1103/PhysRevE.107.024315" target="_self">DOI</a>, <a href="https://bastianpietras.github.io/files/2023_Pietras_Cestnik_Pikovsky.pdf" target="_self">PDF</a>, <a href="https://doi.org/10.48550/arXiv.2209.00922" target="_self">arXiv</a>]</li><br/>
   
   <h3 class="year">2022</h3>
   
   <li> <strong>Mesoscopic description of hippocampal replay and metastability in spiking neural networks with short-term plasticity</strong><br/>
       <ins>B. Pietras</ins>, V. Schmutz, T. Schwalger<br/>
-      <em>PLoS Comput. Biol.</em>, 2022. [<a href="https://doi.org/10.1371/journal.pcbi.1010809" target="_self">DOI</a>, <a href="https://github.com/BastianPietras/bastianpietras.github.io/raw/master/files/2022_Pietras_Schmutz_Schwalger.pdf" target="_self">PDF</a>, <a href="https://arxiv.org/abs/2204.01675" target="_self">arXiv</a>]</li><br/>
+      <em>PLoS Comput. Biol.</em>, 2022. [<a href="https://doi.org/10.1371/journal.pcbi.1010809" target="_self">DOI</a>, <a href="bastianpietras.github.io/files/2022_Pietras_Schmutz_Schwalger.pdf" target="_self">PDF</a>, <a href="https://arxiv.org/abs/2204.01675" target="_self">arXiv</a>]</li><br/>
   
   <li> <strong>Kuramoto model for populations of quadratic integrate-and-fire neurons with chemical and electrical coupling</strong><br/>
       P. Clusella, <ins>B. Pietras</ins>, E. Montbri&oacute;<br/>
-      <em>Chaos</em>, 2022. [<a href="https://aip.scitation.org/doi/full/10.1063/5.0075285" target="_self">DOI</a>, <a href="https://github.com/BastianPietras/bastianpietras.github.io/raw/master/files/2022_Clusella_Pietras_Montbrio.pdf" target="_self">PDF</a>, <a href="https://arxiv.org/abs/2110.07665" target="_self">arXiv</a>]</li><br/>
+      <em>Chaos</em>, 2022. [<a href="https://aip.scitation.org/doi/full/10.1063/5.0075285" target="_self">DOI</a>, <a href="bastianpietras.github.io/files/2022_Clusella_Pietras_Montbrio.pdf" target="_self">PDF</a>, <a href="https://arxiv.org/abs/2110.07665" target="_self">arXiv</a>]</li><br/>
   
   <h3 class="year">2020</h3>
   <li> <strong>Low-dimensional firing-rate dynamics for populations of renewal-type spiking neurons</strong><br/>
