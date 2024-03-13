@@ -36,3 +36,8 @@ Feel free to contact me in case you are interested!
 <br/>
 
 Check also my older websites as one of the [COSMOS ESRs](https://www.uni-potsdam.de/cosmos-itn/people/early-stage-researchers-esrs/bastian-pietras/), in the [Coordination Dynamics](https://www.human-movement-sciences.nl/cd/current-phds/bastian/) group at the VU Amsterdam, and in the [Nonlinear and Biomedical Physics](http://www.research.lancs.ac.uk/portal/en/people/bastian-pietras(7175062e-59d9-4264-8ff0-3cf5a13be5ec).html) group at Lancaster University.
+
+<br/>
+This project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No 101032806.
+<p style="float: left;"><img src="{{ site.baseurl }}/assets/img/eu.png" alt="" title="overview" style="float: left" width="200px" height="auto" padding="1px"></p>  
+
