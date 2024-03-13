@@ -9,7 +9,6 @@ profile:
   image: prof_pic.jpg
   address: >
            <p>UPF Barcelona</p>
-           <p>Neuronal Dynamics group</p>
            <p>Department of Information and Communication Technologies</p>
            <p>Tànger, 122-140</p>
            <p>08018 Barcelona</p>
