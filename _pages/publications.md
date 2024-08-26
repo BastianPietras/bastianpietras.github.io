@@ -14,7 +14,7 @@ title: publications
 
   <h3 class="year">2024</h3>
   
-  <li> <strong>Pulse shape and voltage-dependent synchronization in spiking neuron network</strong><br/>
+  <li> <strong>Pulse shape and voltage-dependent synchronization in spiking neuron networks</strong><br/>
       <ins>B. Pietras</ins> <br/>
       <em>Neural Computation</em>, 2024. [<a href="https://doi.org/10.1162/neco_a_01680" target="_self">DOI</a>, <a href="https://bastianpietras.github.io/files/2024_Pietras.pdf" target="_self">PDF</a>, <a href="https://doi.org/10.48550/arXiv.2304.09813" target="_self">arXiv</a>]</li><br/>
   
