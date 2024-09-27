@@ -8,6 +8,14 @@ title: publications
 <ol reversed>
   
   <h3>Preprints</h3>
+
+   <li> <strong>A low-dimensional model for networks of adaptive spiking neurons</strong><br/>
+      <ins>B. Pietras</ins>, P. Clusella, E. Montbri&oacute; <br/>
+      <em>submitted</em>. [<a href="https://bastianpietras.github.io/files/2024_PCM.pdf" target="_self">PDF</a>, <a href=" " target="_self">arXiv</a>]</li><br/>
+
+  <li> <strong>Heterogeneous populations of quadratic intagrate-and-fire neurons</strong><br/>
+      <ins>B. Pietras</ins>, E. Montbri&oacute; <br/>
+      <em>submitted</em>. [<a href="https://bastianpietras.github.io/files/2024_PM.pdf" target="_self">PDF</a>, <a href=" " target="_self">arXiv</a>]</li><br/>
   
   
   <h3>Journal activities</h3>
