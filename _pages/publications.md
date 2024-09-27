@@ -76,7 +76,7 @@ spiking networks</strong><br/>
       <em>Chaos</em>, 2016. [<a href="https://aip.scitation.org/doi/10.1063/1.4963371" target="_self">DOI</a>, <a href="https://bastianpietras.github.io/files/2016_Pietras_Daffertshofer.pdf" target="_self">PDF</a>, <a href="https://arxiv.org/abs/1608.02723" target="_self">arXiv</a>]</li>
 
   <br>
-  <h3 class="year">books</h3>
+  <h3 class="year">in books</h3>
 </ol>
 
 
