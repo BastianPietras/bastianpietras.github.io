@@ -17,18 +17,13 @@ news: true
 social: true
 ---
 
-Driven with a genuine scientific curiosity, I strive towards unraveling the mechanisms along which our brain operates.
-My research focuses on synchronization phenomena of neural networks.
-Synchronous interaction of thousands of neurons is paradigmatic for processing and transmitting information within and across different brain areas.
-To this end, I study how microscopic dynamics translates into emergent macroscopic behavior and how different subnetworks interact with each other.
-I have used phase reduction approaches to investigate dynamic correlations of oscillatory activity in the human brain. 
-Moreover, I combine ideas from computational neuroscience, nonlinear dynamics, bifurcation theory, and statistical mechanics, to study neuronal population models that are capable of generating large-scale oscillations.
-More recently, I have started working on stochastic neural dynamics, striving towards mean-field theories for populations of spiking neurons both in cortical areas as well as in the spinal cord.
+How do interactions among neurons give rise to collective dynamics and computation? I study this question using nonlinear dynamics, statistical physics and mean-field theory.
 
-<br/>
+I develop exact and reduced models that connect the mechanisms of individual neurons and circuits to the activity of neuronal populations. My work examines how synchronization, adaptation, fluctuations and synaptic coupling shape neural dynamics, and which microscopic mechanisms a reduced model must preserve to remain both tractable and explanatory.
 
-I am always keen on applying our modeling framework in interdisciplinary empirical projects and testing our mathematical techniques against experimental data - ideas range from describing LFP recordings or Neuropixels probes up to neuroprosthetics and brain-machine interfaces.
-Feel free to contact me in case you are interested!
+My emerging research direction connects these models to whole-brain dynamics and the interactions among brain, body and environment. I am interested in combining interpretable models with neural, physiological and behavioural observations.
+
+I welcome collaborations across mathematical and computational neuroscience, especially projects that connect mechanistic models with experimental data.
 
 <br/>
 
