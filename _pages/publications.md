@@ -9,18 +9,24 @@ title: publications
   
   <h3>Preprints</h3>
 
-  <li> <strong>Heterogeneous populations of quadratic intagrate-and-fire neurons: on the generality of Lorentzian distributions</strong><br/>
+  <li> <strong>Heterogeneous populations of quadratic integrate-and-fire neurons: on the generality of Lorentzian distributions</strong><br/>
       <ins>B. Pietras</ins>, E. Montbri&oacute; <br/>
-      <em>submitted</em>. [<a href="https://bastianpietras.github.io/files/2024_Pietras_Montbrio.pdf" target="_self">PDF</a>, <a href="https://arxiv.org/abs/2409.18278" target="_self">arXiv</a>]</li><br/>
+      <em>Preprint</em>, 2024. [<a href="https://bastianpietras.github.io/files/2024_Pietras_Montbrio.pdf" target="_self">PDF</a>, <a href="https://arxiv.org/abs/2409.18278" target="_self">arXiv</a>]</li><br/>
   
   
-  <h3>Journal activities</h3>
+  <h3>Journal articles</h3>
+
+  <h3 class="year">2026</h3>
+
+  <li> <strong>Synchronization modes in bipartite oscillator networks</strong><br/>
+      P. Pom&eacute;s, <ins>B. Pietras</ins>, E. Montbri&oacute; <br/>
+      <em>Phys. Rev. Research</em> 8, 033124, 2026. [<a href="https://journals.aps.org/prresearch/abstract/10.1103/gppc-1j4z" target="_self">DOI</a>, <a href="https://arxiv.org/abs/2606.20345" target="_self">arXiv</a>]</li><br/>
 
   <h3 class="year">2025</h3>
 
-  <li> <strong>A low-dimensional model for networks of adaptive spiking neurons</strong><br/>
+  <li> <strong>Low-dimensional model for adaptive networks of spiking neurons</strong><br/>
       <ins>B. Pietras</ins>, P. Clusella, E. Montbri&oacute; <br/>
-      Editor's Suggestion in: <em>Phys. Rev. E</em>, 2025. [<a href="https://doi.org/10.1103/PhysRevE.111.014422" target="_self">DOI</a>, <a href="https://bastianpietras.github.io/files/2025_Pietras_Clusella_Montbrio.pdf" target="_self">PDF</a>, <a href="https://arxiv.org/abs/2410.03657" target="_self">arXiv</a>]</li><br/>
+      Editor's Suggestion in: <em>Phys. Rev. E</em> 111, 014422, 2025. [<a href="https://doi.org/10.1103/PhysRevE.111.014422" target="_self">DOI</a>, <a href="https://bastianpietras.github.io/files/2025_Pietras_Clusella_Montbrio.pdf" target="_self">PDF</a>, <a href="https://arxiv.org/abs/2410.03657" target="_self">arXiv</a>]</li><br/>
 
   <h3 class="year">2024</h3>
   
