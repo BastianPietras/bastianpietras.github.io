@@ -38,3 +38,11 @@ Check also my older websites as one of the [COSMOS ESRs](https://www.uni-potsdam
 This project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No 101032806.
 <p style="float: left;"><img src="{{ site.baseurl }}/assets/img/eu.png" alt="" title="overview" style="float: left" width="200px" height="auto" padding="1px"></p>  
 
+
+<style>
+@media (max-width: 600px) {
+  .post-content .profile { float: none; width: 100%; margin: 0 0 24px; }
+  .post-content .profile img { width: 150px; max-width: 100%; }
+  .post-content .profile .address { width: auto; overflow-wrap: anywhere; }
+}
+</style>
