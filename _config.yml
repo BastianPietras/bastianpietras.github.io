@@ -2,9 +2,9 @@
 # Site settings
 # -----------------------------------------------------------------------------
 name: Bastian Pietras
-email: bastian.pietras@upf.edu
+email: bastian@nisys.ai
 description: > # this means to ignore newlines until "url:"
-  Marie Sklodowska-Curie Postdoctoral Researcher in Computational Neuroscience
+  Senior Research Scientist at Natural Intelligence
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 

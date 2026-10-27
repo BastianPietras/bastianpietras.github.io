@@ -2,17 +2,15 @@
 layout: home
 permalink: /
 title: <strong>Bastian</strong> Pietras
-description: Marie Sklodowska-Curie Postdoctoral Researcher in Computational Neuroscience
+description: Senior Research Scientist at Natural Intelligence
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-           <p>UPF Barcelona</p>
-           <p>Department of Information and Communication Technologies</p>
-           <p>Tànger, 122-140</p>
-           <p>08018 Barcelona</p>
-           <p><a href="mailto:bastian.pietras@upf.edu">Email</a></p>
+           <p>Natural Intelligence (NISYS GmbH)</p>
+           <p>Frankfurt am Main, Germany</p>
+           <p><a href="mailto:bastian@nisys.ai">Email</a></p>
            
 
 news: true
