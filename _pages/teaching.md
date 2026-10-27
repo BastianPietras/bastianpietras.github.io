@@ -29,24 +29,24 @@ title: teaching
   
   <tr>
     <td> WS 2020/21  </td>
-    <td>Lecture: Analysis II (<details class="course-role"><summary>Course coordinator</summary><span class="course-role-desc">Coordinated the course and tutor team, prepared exercise sheets and examinations, graded weekly assignments, and taught two exercise classes.</span></details>)</td>
+    <td>Lecture: Analysis II <details class="course-role"><summary>(Course coordinator)</summary><span class="course-role-desc">Coordinated the course and tutor team, prepared exercise sheets and examinations, graded weekly assignments, and taught two exercise classes.</span></details></td>
   </tr>
   
   <tr>
     <td> SS 2020  </td>
-    <td>Lecture: Probability Theory and Statistics for Computer Scientists (<details class="course-role"><summary>Course coordinator</summary><span class="course-role-desc">Coordinated the course and tutor team, prepared exercise sheets and examinations, graded weekly assignments, and taught two exercise classes.</span></details>)<br>
+    <td>Lecture: Probability Theory and Statistics for Computer Scientists <details class="course-role"><summary>(Course coordinator)</summary><span class="course-role-desc">Coordinated the course and tutor team, prepared exercise sheets and examinations, graded weekly assignments, and taught two exercise classes.</span></details><br>
         Seminar: Current Topics in Computational Neuroscience (with T. Schwalger)</td>
   </tr>
   
   <tr>
     <td> WS 2019/20  </td>
-    <td>Lecture: Analysis I and Linear Algebra for Engineers (<details class="course-role"><summary>Course coordinator</summary><span class="course-role-desc">Coordinated the course and tutor team, prepared exercise sheets and examinations, graded weekly assignments, and taught two exercise classes.</span></details>)
+    <td>Lecture: Analysis I and Linear Algebra for Engineers <details class="course-role"><summary>(Course coordinator)</summary><span class="course-role-desc">Coordinated the course and tutor team, prepared exercise sheets and examinations, graded weekly assignments, and taught two exercise classes.</span></details>
     <br>Lecture: Math Prep-Course for Computational Neuroscience (Assistant)</td>
   </tr>
   
   <tr>
     <td> SS 2019  </td>
-    <td>Lecture: Mathematics for Physicists IV (<details class="course-role"><summary>Course coordinator</summary><span class="course-role-desc">Coordinated the course and tutor team, prepared exercise sheets and examinations, graded weekly assignments, and taught two exercise classes.</span></details>)
+    <td>Lecture: Mathematics for Physicists IV <details class="course-role"><summary>(Course coordinator)</summary><span class="course-role-desc">Coordinated the course and tutor team, prepared exercise sheets and examinations, graded weekly assignments, and taught two exercise classes.</span></details>
     <br>Seminar: Current Topics in Computational Neuroscience (with T. Schwalger)</td>
   </tr>
   
