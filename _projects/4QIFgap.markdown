@@ -38,6 +38,9 @@ electrical synapses. The development of such an exact mean-field description inc
 urgently needed, given the ubiquity of electrical synapses in the brain, and it presents the first step towards a mean-field theory
 for spiking neuron networks with electrical synapses.
 
-<div><p style="float: center;"><img src="{{ site.baseurl }}/assets/img/qifgap_intro.png" alt="" title="" style="float: center" width="680px" height="auto" padding="10px"></p>  
-</div>
-
+<figure style="width: 100%; max-width: 100%; margin: 1.5rem 0;">
+  <a href="{{ site.baseurl }}/assets/img/qifgap_intro.png" aria-label="Open the QIF network figure at full size" style="display: block;">
+    <img src="{{ site.baseurl }}/assets/img/qifgap_intro.png" alt="Reduction from QIF neurons with chemical and electrical synapses to a two-variable neural mass model" style="display: block; width: 100%; max-width: 100%; height: auto;">
+  </a>
+  <figcaption style="margin-top: 0.5rem; font-size: 0.9em;"><a href="{{ site.baseurl }}/assets/img/qifgap_intro.png">View full-size figure</a></figcaption>
+</figure>

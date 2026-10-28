@@ -49,7 +49,7 @@ description:
 <p>Finite networks fluctuate, and those fluctuations can matter. With Valentin Schmutz and Tilo Schwalger, I developed a mesoscopic description of spiking networks with short-term plasticity to study hippocampal replay and metastability. This work connects microscopic spiking variability to transient population activity, rather than treating variability only as noise around an average.</p>
 <ul class="research-links">
 <li><a href="https://doi.org/10.1371/journal.pcbi.1010809">Replay paper · 2022</a></li>
-<li><a href="https://www.youtube.com/watch?v=hLkP9h434fI">Related neural-field animation</a></li>
+<li><a href="https://www.youtube.com/watch?v=hLkP9h434fI">Online talk: stochastic neural-field model</a></li>
 </ul>
 </div>
 </section>
