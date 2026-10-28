@@ -43,3 +43,24 @@ table {
     border-top: 2px solid #333;
   }
 }
+
+// Keep each About Me timeline date on one line, respecting explicit breaks.
+.about-timeline > tbody > tr > td:first-child {
+  width: 5em;
+  white-space: nowrap;
+}
+
+.about-timeline > tbody > tr > td + td {
+  overflow-wrap: anywhere;
+}
+
+.about-timeline strong {
+  font-weight: 700;
+}
+
+@media (max-width: 480px) {
+  .about-timeline > tbody > tr > td {
+    padding-left: 8px;
+    padding-right: 8px;
+  }
+}
