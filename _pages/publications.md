@@ -20,7 +20,7 @@ title: publications
 
   <li> <strong>Synchronization modes in bipartite oscillator networks</strong><br/>
       P. Pom&eacute;s, <ins>B. Pietras</ins>, E. Montbri&oacute; <br/>
-      <em>Phys. Rev. Research</em> 8, 033124, 2026. [<a href="https://journals.aps.org/prresearch/abstract/10.1103/gppc-1j4z" target="_self">DOI</a>, <a href="{{ site.baseurl }}/files/2026_Pomes_Pietras_Montbrio.pdf" target="_self">PDF</a>, <a href="{{ site.baseurl }}/files/2026_Pomes_Pietras_Montbrio_Supplement.pdf" target="_self">Supplement</a>, <a href="https://arxiv.org/abs/2606.20345" target="_self">arXiv</a>]</li><br/>
+      <em>Phys. Rev. Research</em> 8, 033124, 2026. [<a href="https://journals.aps.org/prresearch/abstract/10.1103/gppc-1j4z" target="_self">DOI</a>, <a href="{{ site.baseurl }}/files/2026_Pomes_Pietras_Montbrio.pdf" target="_self">PDF</a>, <a href="{{ site.baseurl }}/files/2026_Pomes_Pietras_Montbrio_Supplement.pdf" target="_self">Supp.Mat.</a>, <a href="https://arxiv.org/abs/2606.20345" target="_self">arXiv</a>]</li><br/>
 
   <h3 class="year">2025</h3>
 
@@ -32,7 +32,7 @@ title: publications
   
   <li> <strong>Pulse shape and voltage-dependent synchronization in spiking neuron networks</strong><br/>
       <ins>B. Pietras</ins> <br/>
-      <em>Neural Computation</em>, 2024. [<a href="https://doi.org/10.1162/neco_a_01680" target="_self">DOI</a>, <a href="https://bastianpietras.github.io/files/2024_Pietras.pdf" target="_self">PDF</a>, <a href="{{ site.baseurl }}/files/2024_Pietras_Appendices_arXiv_v2.pdf" target="_self">Appendices (arXiv)</a>, <a href="https://doi.org/10.48550/arXiv.2304.09813" target="_self">arXiv</a>]</li><br/>
+      <em>Neural Computation</em>, 2024. [<a href="https://doi.org/10.1162/neco_a_01680" target="_self">DOI</a>, <a href="https://bastianpietras.github.io/files/2024_Pietras.pdf" target="_self">PDF</a>, <a href="{{ site.baseurl }}/files/2024_Pietras_Appendices_arXiv_v2.pdf" target="_self">Appendix (Proofs)</a>, <a href="https://doi.org/10.48550/arXiv.2304.09813" target="_self">arXiv</a>]</li><br/>
   
   <h3 class="year">2023</h3>
   
